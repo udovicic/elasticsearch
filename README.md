@@ -1,6 +1,6 @@
-# Elasticsearch 7.17 custom build
+# Elasticsearch 8.14 custom build
 
-For usage with Magento 2 Smile extension, it uses base elastic 7.16 image with following plugins pre installed:
+For usage with Magento 2 Smile extension, it uses base elastic 8.14 image with following plugins pre installed:
 
 * analysis-phonetic
 * analysis-icu
